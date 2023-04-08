@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "watchdog_int.h": "c",
+        "interrupt.h": "c",
+        "bit_utils.h": "c",
+        "ext_int_int.h": "c",
+        "std_types.h": "c",
+        "port_int.h": "c",
+        "timer_int.h": "c",
+        "delay.h": "c",
+        "io.h": "c",
+        "g_int_int.h": "c",
+        "uart_int.h": "c",
+        "ultrasonic_int.h": "c",
+        "bluetooth_int.h": "c",
+        "wheels_int.h": "c",
+        "wheels_cfg.h": "c"
+    }
+}
