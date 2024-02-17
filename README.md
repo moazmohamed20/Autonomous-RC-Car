@@ -25,7 +25,11 @@ Recommended Remote App: [Bluetooth RC Car](https://play.google.com/store/apps/de
 
 ## Schematic
 
-![ATMega328P - Pins](./Images/Schematic.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/moazmohamed20/Autonomous-RC-Car/assets/48488390/3d3f2f1f-d51d-4bf7-9bfc-fb00c03cc8ac">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/moazmohamed20/Autonomous-RC-Car/assets/48488390/56228bb7-080e-40ce-ae85-ea7cd05ab9e3">
+  <img alt="Schematic-Diagram" src="https://github.com/moazmohamed20/Autonomous-RC-Car/assets/48488390/3d3f2f1f-d51d-4bf7-9bfc-fb00c03cc8ac" title="Schematic-Diagram">
+</picture>
 
 ### Components
 
