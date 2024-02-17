@@ -11,7 +11,7 @@
  *   When It Goes HIGH For 10us+, The Sensor Fires 8 Ultrasonic Pulses
  *
  * Echo Pin:	_________|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|___
- * 	 Goes High When The Ultrasonic Pulses Is Transmitted,
+ * 	 Goes High When The Ultrasonic Pulses Are Transmitted,
  * 	 And Remains High Until The Sensor Receives The Reflected Echo
  */
 
